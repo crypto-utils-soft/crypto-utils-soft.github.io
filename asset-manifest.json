@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f2ac20d.css",
+    "main.js": "/static/js/main.b0e2bae0.js",
+    "static/media/TTFirsNeue-Regular.ttf": "/static/media/TTFirsNeue-Regular.7925664aab1bc42bbc9b.ttf",
+    "index.html": "/index.html",
+    "main.1f2ac20d.css.map": "/static/css/main.1f2ac20d.css.map",
+    "main.b0e2bae0.js.map": "/static/js/main.b0e2bae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2ac20d.css",
+    "static/js/main.b0e2bae0.js"
+  ]
+}
